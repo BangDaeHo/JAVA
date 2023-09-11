@@ -1,3 +1,5 @@
+package CH1;
+
 import java.util.Scanner;
 
 public class ScannerDemo {

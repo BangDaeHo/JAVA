@@ -1,3 +1,5 @@
+package CH1;
+
 public class CompLogicDemo{
     public static void main(String[] args){
         int x = 0, y = 1;

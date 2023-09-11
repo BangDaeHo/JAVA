@@ -1,3 +1,5 @@
+package CH1;
+
 public class BitOperatorDemo {
     public static void main(String[] args){
         System.out.printf("%x\n", 0b0101 & 0b0011);
