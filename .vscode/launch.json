@@ -1,0 +1,424 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InstanceofDemo",
+            "request": "launch",
+            "mainClass": "CH6.InstanceofDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "UpcastDemo",
+            "request": "launch",
+            "mainClass": "CH6.UpcastDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceDemo",
+            "request": "launch",
+            "mainClass": "CH6.InheritanceDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo",
+            "request": "launch",
+            "mainClass": "CH5.EnumDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ConstantDemo",
+            "request": "launch",
+            "mainClass": "CH5.ConstantDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BitOperatorDemo",
+            "request": "launch",
+            "mainClass": "CH1.BitOperatorDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "CastDemo",
+            "request": "launch",
+            "mainClass": "CH1.CastDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "CharBoolDemo",
+            "request": "launch",
+            "mainClass": "CH1.CharBoolDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "CompLogicDemo",
+            "request": "launch",
+            "mainClass": "CH1.CompLogicDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "HIJAVA",
+            "request": "launch",
+            "mainClass": "CH1.HIJAVA",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "CH1.HelloWorld",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "NumberTypeDemo",
+            "request": "launch",
+            "mainClass": "CH1.NumberTypeDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "PrintfDemo",
+            "request": "launch",
+            "mainClass": "CH1.PrintfDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo",
+            "request": "launch",
+            "mainClass": "CH1.ScannerDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "SignIncrementDemo",
+            "request": "launch",
+            "mainClass": "CH1.SignIncrementDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "SwapDemo",
+            "request": "launch",
+            "mainClass": "CH1.SwapDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "VarDemo",
+            "request": "launch",
+            "mainClass": "CH1.VarDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "BreakDemo",
+            "request": "launch",
+            "mainClass": "CH3.BreakDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ContinerDemo",
+            "request": "launch",
+            "mainClass": "CH3.ContinerDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "EchoDemo",
+            "request": "launch",
+            "mainClass": "CH3.EchoDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo",
+            "request": "launch",
+            "mainClass": "CH3.IncrementDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "MultIfDemo",
+            "request": "launch",
+            "mainClass": "CH3.MultIfDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfDemo",
+            "request": "launch",
+            "mainClass": "CH3.NestedIfDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "OverloadDemo",
+            "request": "launch",
+            "mainClass": "CH3.OverloadDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "CH3.Q1",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "CH3.Q2",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "CH3.Q3",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "CH3.Q4",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ReturnDemo",
+            "request": "launch",
+            "mainClass": "CH3.ReturnDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "SimpleIfDemo",
+            "request": "launch",
+            "mainClass": "CH3.SimpleIfDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Switch1Demo",
+            "request": "launch",
+            "mainClass": "CH3.Switch1Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Switch2Demo",
+            "request": "launch",
+            "mainClass": "CH3.Switch2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Switch3Demo",
+            "request": "launch",
+            "mainClass": "CH3.Switch3Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Switch4Demo",
+            "request": "launch",
+            "mainClass": "CH3.Switch4Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Switch5Demo",
+            "request": "launch",
+            "mainClass": "CH3.Switch5Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "While2Demo",
+            "request": "launch",
+            "mainClass": "CH3.While2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "WhileDemo",
+            "request": "launch",
+            "mainClass": "CH3.WhileDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Circle2Demo",
+            "request": "launch",
+            "mainClass": "CH4.Circle2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "MethodChainDemo",
+            "request": "launch",
+            "mainClass": "CH4.MethodChainDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "PhoneDemo",
+            "request": "launch",
+            "mainClass": "CH4.PhoneDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "PrintTest",
+            "request": "launch",
+            "mainClass": "CH4.PrintTest",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "TriangleTest",
+            "request": "launch",
+            "mainClass": "CH4.TriangleTest",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "TriangleTest2",
+            "request": "launch",
+            "mainClass": "CH4.TriangleTest2",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Array1Demo",
+            "request": "launch",
+            "mainClass": "CH5.Array1Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Array2Demo",
+            "request": "launch",
+            "mainClass": "CH5.Array2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "CH5.ArrayListDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "CircleArrayDemo",
+            "request": "launch",
+            "mainClass": "CH5.CircleArrayDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "ForEachDemo",
+            "request": "launch",
+            "mainClass": "CH5.ForEachDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo(1)",
+            "request": "launch",
+            "mainClass": "CH5.IncrementDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "MainArgumentDemo",
+            "request": "launch",
+            "mainClass": "CH5.MainArgumentDemo",
+            "projectName": "JAVA_3df388da",
+            "args": [
+                "안녕!",
+                "3"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "ObjectArgumentDemo",
+            "request": "launch",
+            "mainClass": "CH5.ObjectArgumentDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "Q1(1)",
+            "request": "launch",
+            "mainClass": "CH5.Q1",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "String1Demo",
+            "request": "launch",
+            "mainClass": "CH5.String1Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "String2Demo",
+            "request": "launch",
+            "mainClass": "CH5.String2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "String3Demo",
+            "request": "launch",
+            "mainClass": "CH5.String3Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "String4Demo",
+            "request": "launch",
+            "mainClass": "CH5.String4Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "String5Demo",
+            "request": "launch",
+            "mainClass": "CH5.String5Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "VarArgsDemo",
+            "request": "launch",
+            "mainClass": "CH5.VarArgsDemo",
+            "projectName": "JAVA_3df388da"
+        }
+    ]
+}
