@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TryCatch1Demo",
+            "request": "launch",
+            "mainClass": "CH9.TryCatch1Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "CH8.test",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
             "name": "Coin1Demo",
             "request": "launch",
             "mainClass": "CH7.Coin1Demo",
