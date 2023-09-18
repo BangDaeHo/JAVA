@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarDemo",
+            "request": "launch",
+            "mainClass": "CH10.CarDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
+            "name": "BoundedTypeDemo",
+            "request": "launch",
+            "mainClass": "CH9.BoundedTypeDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
             "name": "TryCatch1Demo",
             "request": "launch",
             "mainClass": "CH9.TryCatch1Demo",
