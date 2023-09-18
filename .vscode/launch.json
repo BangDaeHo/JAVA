@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ParallelDemo",
+            "request": "launch",
+            "mainClass": "CH12.ParallelDemo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
             "name": "CarDemo",
             "request": "launch",
             "mainClass": "CH10.CarDemo",
