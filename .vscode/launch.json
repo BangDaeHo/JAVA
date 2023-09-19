@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collect2Demo",
+            "request": "launch",
+            "mainClass": "CH12.Collect2Demo",
+            "projectName": "JAVA_3df388da"
+        },
+        {
+            "type": "java",
             "name": "ParallelDemo",
             "request": "launch",
             "mainClass": "CH12.ParallelDemo",
